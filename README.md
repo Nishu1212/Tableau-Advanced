@@ -25,11 +25,11 @@ Concepts learned:
 21) Implement Advanced Mapping Techniques
 
 References:
-https://www.tableau.com
-https://public.tableau.com
-https://www.udemy.com/tableau10-advanced
-https://www.superdatascience.com/tableau
+https://www.tableau.com  
+https://public.tableau.com  
+https://www.udemy.com/tableau10-advanced  
+https://www.superdatascience.com/tableau  
 
 ![alt text](images/Tableau.jpg)
 
-![alt text](images/Tableau-A-Z.png)
+![alt text](images/Tableau-Advanced.png)
