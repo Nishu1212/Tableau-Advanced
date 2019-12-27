@@ -24,7 +24,7 @@ Concepts learned:
 20) Understand Level Of Details
 21) Implement Advanced Mapping Techniques
 
-References:
+References:  
 https://www.tableau.com  
 https://public.tableau.com  
 https://www.udemy.com/tableau10-advanced  
